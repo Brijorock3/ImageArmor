@@ -1,3 +1,4 @@
 Softwares,Id,Version
-Google Chrome,Google.Chrome,145.0.7632.110
+Google Chrome,Google.Chrome,145.0.7632.160
 Notepad++,Notepad++.Notepad++,8.9.2
+
